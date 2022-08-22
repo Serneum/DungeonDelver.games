@@ -17,9 +17,9 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "https://www.dungeondelver.games" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : DungeonDelver Games
+title      : Dungeon Delver Games
 email      : chris@dungeondelver.games #this is also the email contact forms will go to
-description: "Website dedicated to showcasing work from DungeonDelver Games"
+description: "Website dedicated to showcasing work from Dungeon Delver Games"
 author     : Chris Rees
 
 # logo:     #optional, defaults to site title
